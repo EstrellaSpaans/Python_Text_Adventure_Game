@@ -7,12 +7,12 @@ This game is inspired by the Wizarding World is a fantasy universe centered on a
 The game has 6 stages: 
 
 ```
-Stage 1: Start the game
+Stage 1: Start the game.
 Stage 2: Decide whether or to read the letter.
-Stage 3: Decide if you are ok/
+Stage 3: Decide if you are ok. 
 Stage 4: Decide how to defeat the spider.
 Stage 5: Decide what item you will pick. 
-Stage 6: Sorting ceremony
+Stage 6: Sorting ceremony.
 ```
 
 ## Python Specifications:
