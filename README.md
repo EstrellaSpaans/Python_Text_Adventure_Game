@@ -15,7 +15,7 @@ Stage 5: Decide what item you will pick.
 Stage 6: Sorting ceremony.
 ```
 
-## Python Specifications:
+## Python Fundamentals:
 
 In this project I have applied the following concepts of Python: 
 
