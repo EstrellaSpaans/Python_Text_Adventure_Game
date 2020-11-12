@@ -1,4 +1,4 @@
-# Text Adventure Game
+# American Wizarding World Text Adventure Game
 
 ## Game Inspiration:
 
