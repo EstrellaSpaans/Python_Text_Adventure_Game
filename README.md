@@ -2,7 +2,7 @@
 
 ## Game Inspiration:
 
-This game is inspired by the Wizarding World is a fantasy universe centered on a tales by J.K. Rowling. The game contains references to the details of the original Harry potter stories. The game focusses on a person being selected to go an a journey with a friend to discover the American Wizarding community. 
+This game is inspired by the Wizarding World is a fantasy universe centered on the tales by J.K. Rowling. The game contains references to the details of the original Harry Potter stories. The game focuses on a person being selected to go on a journey with a friend to discover the American Wizarding community.
 
 The game has 6 stages: 
 
